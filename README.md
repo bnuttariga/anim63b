@@ -4,3 +4,4 @@
 * Assignment3 : Tower(Model)
 * Assignment5 : Car(Color and Light)
 * Assignment6 : Car(Animation)
+* Assignment7 : Video Editing
