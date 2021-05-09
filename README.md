@@ -14,3 +14,4 @@
 * Assignment7 : Video Editing
 \>\>[CLIP7](https://youtu.be/lQn8womJ68o)\<\<
 * Final project
+\>\>[CLIP7](https://youtu.be/8w67TOXIULc)\<\<
